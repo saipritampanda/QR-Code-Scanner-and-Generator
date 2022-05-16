@@ -153,7 +153,7 @@
                     android:padding="10dp"
                     android:text="@string/aboutText"
                     android:textColor="@color/colorPrimary"
-                    android:textSize="15sp"
+                    android:textSize="13sp"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@id/textView7" />
@@ -163,14 +163,14 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:layout_marginTop="5dp"
+                    android:layout_marginTop="15dp"
                     android:layout_marginEnd="10dp"
                     android:background="@drawable/result_box_background"
                     android:fontFamily="@font/andika"
                     android:padding="10dp"
                     android:text="@string/Key_features"
                     android:textColor="@color/colorPrimary"
-                    android:textSize="15sp"
+                    android:textSize="13sp"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/textView4" />
@@ -233,6 +233,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/upc_a"
                                 android:textColor="@color/colorPrimary" />
 
@@ -241,6 +242,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/upc_e"
                                 android:textColor="@color/colorPrimary" />
 
@@ -249,6 +251,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/ean_8"
                                 android:textColor="@color/colorPrimary" />
 
@@ -276,6 +279,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/code_39"
                                 android:textColor="@color/colorPrimary" />
 
@@ -284,6 +288,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/code_93"
                                 android:textColor="@color/colorPrimary" />
 
@@ -292,6 +297,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/code_128"
                                 android:textColor="@color/colorPrimary" />
 
@@ -300,6 +306,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/codabar"
                                 android:textColor="@color/colorPrimary" />
 
@@ -308,6 +315,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/itf"
                                 android:textColor="@color/colorPrimary" />
 
@@ -316,6 +324,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/rss_14"
                                 android:textColor="@color/colorPrimary" />
 
@@ -324,6 +333,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/rss_expanded"
                                 android:textColor="@color/colorPrimary" />
 
@@ -351,6 +361,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/qr_code"
                                 android:textColor="@color/colorPrimary" />
 
@@ -359,6 +370,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/barcode"
                                 android:textColor="@color/colorPrimary" />
 
@@ -367,6 +379,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/data_matrix"
                                 android:textColor="@color/colorPrimary" />
 
@@ -375,6 +388,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/aztec"
                                 android:textColor="@color/colorPrimary" />
 
@@ -383,6 +397,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/pdf_417"
                                 android:textColor="@color/colorPrimary" />
 
@@ -391,6 +406,7 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/andika"
                                 android:gravity="center"
+                                android:textSize="13sp"
                                 android:text="@string/maxicode"
                                 android:textColor="@color/colorPrimary" />
 
